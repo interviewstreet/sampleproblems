@@ -14,16 +14,16 @@ N lines of the string 'Hello World' (printed to standard output)
 3
 
 ###Sample Output00
-Hello World
-Hello World
-Hello World
+Hello World  
+Hello World  
+Hello World  
 
 ###Sample Input 01
 5
 
 ###Sample Output01
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
+Hello World  
+Hello World  
+Hello World  
+Hello World  
+Hello World  
